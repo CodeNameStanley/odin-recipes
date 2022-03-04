@@ -1,1 +1,2 @@
 # odin-recipes
+In this project I will be building a recipe website which will consist of a main index page which will have links to a few recipes. In this website I will demonstrate the basic html structure and linking to another page.
